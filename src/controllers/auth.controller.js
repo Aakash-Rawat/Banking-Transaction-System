@@ -2,7 +2,7 @@ const userModel = require("../models/user.model.js")
 const jwt = require("jsonwebtoken")
 const emailService = require("../services/email.service.js");
 const tokenBlackListModel = require("../models/blacklist.model.js");
-const tokenBlackListModel = require("../models/blacklist.model.js")
+
 
 // USER REGISTER CONTROLLER
 
